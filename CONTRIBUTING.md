@@ -178,6 +178,6 @@ Contributors will be:
 
 - **Technical Questions:** Open GitHub issues
 - **Architecture Discussions:** Start GitHub discussions  
-- **Direct Contact:** [Your professional email/LinkedIn]
+- **Direct Contact:** [https://www.linkedin.com/in/danielnb/]
 
 Let's build something amazing together! 🚀
